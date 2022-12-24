@@ -1,0 +1,24 @@
+
+
+const = constante.
+let  local scope
+var nunca usar. global.
+
+
+null � uma consdi�ao inicializada
+undefined se refere a algo que nao foi inicializado
+ex.
+
+let init = null;
+let notInit; // não pode ser const pois const precisa ser inicializado
+
+Note que o undefined é um tipo de dado e pode ser atribuido, ainda que seja o retorno padrão 
+para situações onde não foi incializado um  valor. como por exemplo quando uma função não tem retorno.
+
+importante
+console.log(null == undefined); // true
+console.log(null === undefined); // false
+
+null é "igual"(equivalente) a undefined no conceito de não ser definido porém não é  estritamente igual.
+isso pode ser util pra validar dados no inicio de uma procedure
+não é necessario validar se o mesmo é null ou undefined
