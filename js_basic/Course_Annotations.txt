@@ -22,3 +22,6 @@ console.log(null === undefined); // false
 null é "igual"(equivalente) a undefined no conceito de não ser definido porém não é  estritamente igual.
 isso pode ser util pra validar dados no inicio de uma procedure
 não é necessario validar se o mesmo é null ou undefined
+
+observe que null é um objeto, mas vazio.
+undefined é um estado indefinido
