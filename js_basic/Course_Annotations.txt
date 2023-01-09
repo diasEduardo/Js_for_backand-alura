@@ -25,3 +25,7 @@ não é necessario validar se o mesmo é null ou undefined
 
 observe que null é um objeto, mas vazio.
 undefined é um estado indefinido
+
+
+trunc é sempre mais rapido que fazer floor
+function nao aceita argumento nominado.
