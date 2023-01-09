@@ -28,3 +28,4 @@ undefined é um estado indefinido
 
 
 trunc é sempre mais rapido que fazer floor
+function nao aceita argumento nominado.
